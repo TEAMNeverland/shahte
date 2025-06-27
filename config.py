@@ -1,3 +1,0 @@
-token = "8113165781:AAFUFXlAMqINSNDRTMqck3qJBCggpX4Ax6g"
-bot_id = 8113165781
-sudo_users = [6020132423]
